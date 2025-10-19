@@ -9,3 +9,26 @@
 
 - What is Algoritham?
 - Steps or a process to arrange data.
+
+- Data Types
+- Two Types Primitive and Non-Primitive
+
+- Operation of data structure
+- Traversal
+- Insertion
+- Deletion
+- Searching
+- Sorting
+- Merging
+- Array
+- Stack
+- Queure
+- Tree
+- Graph
+- Insertion
+- Recursion
+- Search
+- Sorting
+- Merge
+- Map
+- Set
